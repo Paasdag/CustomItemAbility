@@ -1,0 +1,11 @@
+name: customItemAbility
+version: '1.0'
+main: me.dean.customItemAbility.CustomItemAbility
+api-version: '1.21'
+authors: [ Dean ]
+commands:
+  givesword:
+    permission: CustomSword.givesword
+  CIA:
+    aliases:
+      - CustomItemAbility

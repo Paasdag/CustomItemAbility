@@ -1,0 +1,2 @@
+# Cooldown is for every item, and it's not shared between players
+global-cooldown: 60
